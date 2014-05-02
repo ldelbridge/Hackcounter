@@ -1,0 +1,27 @@
+{
+  "name": "Hackcounter",
+  "version": "0.1.0",
+  "description": "sitemaker site count information radiator",
+  "main": "server.js",
+  "dependencies": {
+    "connect": "^2.14.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ldelbridge/Hackcounter.git"
+  },
+  "keywords": [
+    "sitemaker"
+  ],
+  "author": "Laura Delbridge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ldelbridge/Hackcounter/issues"
+  },
+  "homepage": "https://github.com/ldelbridge/Hackcounter"
+}
